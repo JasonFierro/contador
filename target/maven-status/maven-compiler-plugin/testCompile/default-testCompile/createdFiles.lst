@@ -1,0 +1,12 @@
+runner\Testrunner.class
+pom\BasePage.class
+models\ScreenRecorder\MyScreenRecorder.class
+runner\browser_manager\DriverManagerFactory$1.class
+runner\browser_manager\NavegatorDriverManager.class
+pom\contadorPage.class
+seleniumgluecode\Consulta\loginDefinition.class
+seleniumgluecode\Hooks.class
+runner\browser_manager\DriverManager.class
+seleniumgluecode\TestBase.class
+runner\browser_manager\DriverManagerFactory.class
+runner\browser_manager\DriverType.class
